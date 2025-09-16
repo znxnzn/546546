@@ -1,0 +1,117 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,  
+  "data": [
+    {
+      "id": 1,
+      "username": "DEV-2024001",  
+      "sex": "精密数控机床",       
+      "city": "128000 元",        
+      "sign": "加工设备",         
+      "experience": "2024-01-15",
+      "score": "RS485",          
+      "classify": "银行转账",     
+      "wealth": "正常运行"        
+    },
+    {
+      "id": 2,
+      "username": "DEV-2024002",
+      "sex": "高清工业相机",
+      "city": "35600 元",
+      "sign": "检测设备",
+      "experience": "2024-02-20",
+      "score": "Ethernet",
+      "classify": "分期付款",
+      "wealth": "正常运行"
+    },
+    {
+      "id": 3,
+      "username": "DEV-2024003",
+      "sex": "全自动上料机",
+      "city": "89500 元",
+      "sign": "输送设备",
+      "experience": "2024-03-10",
+      "score": "Modbus",
+      "classify": "银行转账",
+      "wealth": "待维护"
+    },
+    {
+      "id": 4,
+      "username": "DEV-2024004",
+      "sex": "智能温控系统",
+      "city": "23800 元",
+      "sign": "控制设备",
+      "experience": "2024-01-28",
+      "score": "TCP/IP",
+      "classify": "一次性付款",
+      "wealth": "正常运行"
+    },
+    {
+      "id": 5,
+      "username": "DEV-2024005",
+      "sex": "激光测距传感器",
+      "city": "15200 元",
+      "sign": "传感设备",
+      "experience": "2024-04-05",
+      "score": "CAN总线",
+      "classify": "银行转账",
+      "wealth": "故障维修中"
+    },
+    {
+      "id": 6,
+      "username": "DEV-2024006",
+      "sex": "液压升降平台",
+      "city": "67900 元",
+      "sign": "升降设备",
+      "experience": "2024-02-18",
+      "score": "RS232",
+      "classify": "分期付款",
+      "wealth": "正常运行"
+    },
+    {
+      "id": 7,
+      "username": "DEV-2024007",
+      "sex": "超声波清洗机",
+      "city": "42300 元",
+      "sign": "清洁设备",
+      "experience": "2024-03-25",
+      "score": "Ethernet",
+      "classify": "一次性付款",
+      "wealth": "待校准"
+    },
+    {
+      "id": 8,
+      "username": "DEV-2024008",
+      "sex": "智能仓储机械臂",
+      "city": "198000 元",
+      "sign": "仓储设备",
+      "experience": "2024-01-05",
+      "score": "Profinet",
+      "classify": "银行转账",
+      "wealth": "正常运行"
+    },
+    {
+      "id": 9,
+      "username": "DEV-2024009",
+      "sex": "数控折弯机",
+      "city": "156000 元",
+      "sign": "加工设备",
+      "experience": "2024-03-18",
+      "score": "RS485",
+      "classify": "分期付款",
+      "wealth": "正常运行"
+    },
+    {
+      "id": 10,
+      "username": "DEV-2024010",
+      "sex": "视觉检测系统",
+      "city": "78500 元",
+      "sign": "检测设备",
+      "experience": "2024-04-12",
+      "score": "TCP/IP",
+      "classify": "一次性付款",
+      "wealth": "待验收"
+    }
+  ]
+}

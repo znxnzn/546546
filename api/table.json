@@ -1,0 +1,117 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 1,
+      "username": "物理力学实验室",
+      "sex": "30",
+      "city": "08:00-22:00",
+      "sign": "教学实验、科研项目",
+      "experience": "否",
+      "score": "张教授",
+      "classify": "13800138001",
+      "wealth": "正常开放"
+    },
+    {
+      "id": 2,
+      "username": "化学分析实验室",
+      "sex": "25",
+      "city": "09:00-21:00",
+      "sign": "样品检测、教学实验",
+      "experience": "是",
+      "score": "李教授",
+      "classify": "13900139002",
+      "wealth": "正常开放"
+    },
+    {
+      "id": 3,
+      "username": "生物培养实验室",
+      "sex": "20",
+      "city": "08:30-20:30",
+      "sign": "微生物培养、科研项目",
+      "experience": "是",
+      "score": "王教授",
+      "classify": "13700137003",
+      "wealth": "临时关闭"
+    },
+    {
+      "id": 4,
+      "username": "电子电路实验室",
+      "sex": "35",
+      "city": "08:00-22:30",
+      "sign": "电路设计、教学实验",
+      "experience": "否",
+      "score": "赵教授",
+      "classify": "13600136004",
+      "wealth": "正常开放"
+    },
+    {
+      "id": 5,
+      "username": "材料测试实验室",
+      "sex": "15",
+      "city": "10:00-19:00",
+      "sign": "材料性能测试、科研项目",
+      "experience": "是",
+      "score": "刘教授",
+      "classify": "13500135005",
+      "wealth": "正常开放"
+    },
+    {
+      "id": 6,
+      "username": "环境监测实验室",
+      "sex": "22",
+      "city": "09:30-20:00",
+      "sign": "环境样本分析、教学实验",
+      "experience": "否",
+      "score": "陈教授",
+      "classify": "13400134006",
+      "wealth": "正常开放"
+    },
+    {
+      "id": 7,
+      "username": "光学成像实验室",
+      "sex": "18",
+      "city": "08:30-21:30",
+      "sign": "光学检测、科研项目",
+      "experience": "是",
+      "score": "黄教授",
+      "classify": "13300133007",
+      "wealth": "临时关闭"
+    },
+    {
+      "id": 8,
+      "username": "计算机仿真实验室",
+      "sex": "40",
+      "city": "08:00-23:00",
+      "sign": "仿真实验、教学实训",
+      "experience": "否",
+      "score": "周教授",
+      "classify": "13200132008",
+      "wealth": "正常开放"
+    },
+    {
+      "id": 9,
+      "username": "声学测试实验室",
+      "sex": "12",
+      "city": "10:30-18:30",
+      "sign": "声学性能检测、科研项目",
+      "experience": "是",
+      "score": "吴教授",
+      "classify": "13100131009",
+      "wealth": "正常开放"
+    },
+    {
+      "id": 10,
+      "username": "高温烧结实验室",
+      "sex": "8",
+      "city": "11:00-17:00",
+      "sign": "材料烧结、科研项目",
+      "experience": "是",
+      "score": "郑教授",
+      "classify": "1300130010",
+      "wealth": "正常开放"
+    }
+  ]
+}

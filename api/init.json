@@ -1,0 +1,129 @@
+{
+	"homeInfo": {
+		"title": "首页",
+		"href": "page/welcome-1.html?t=1"
+	},
+	"logoInfo": {
+		"title": "预约管理平台",
+		"image": "images/logo.png",
+		"href": ""
+	},
+	"menuInfo": [{
+			"title": "常规管理",
+			"icon": "fa fa-address-book",
+			"href": "",
+			"target": "_self",
+			"child": [{
+					"title": "主页",
+					"href": "page/welcome-1.html",
+					"icon": "fa fa-home",
+					"target": "_self"
+				},
+				{
+					"title": "实验室共享平台",
+					"href": "page/gongxiang.html",
+					"icon": "fa fa-gears",
+					"target": "_self"
+				},
+				{
+					"title": "设备管理",
+					"href": "page/tianjiashebei.html",
+					"icon": "fa fa-file-text",
+					"target": "_self"
+				},
+				{
+					"title": "预约管理模块",
+					"href": "",
+					"icon": "fa fa-calendar",
+					"target": "_self",
+					"child": [{
+							"title": "预约修改",
+							"href": "page/table/yyxg.html",
+							"icon": "fa fa-list-alt",
+							"target": "_self"
+						},
+						{
+							"title": "实验设备预约",
+							"href": "page/form-step.html",
+							"icon": "fa fa-navicon",
+							"target": "_self"
+						}
+					]
+				},
+				{
+					"title": "实验室信息管理",
+					"href": "",
+					"icon": "fa fa-home",
+					"target": "_self",
+					"child": [{
+						"title": "实验室基础信息",
+						"href": "page/table.html",
+						"icon": "fa fa-hourglass-end",
+						"target": "_self"
+					}]
+				},
+				{
+					"title": "通知提醒",
+					"href": "",
+					"icon": "fa fa-snowflake-o",
+					"target": "",
+					"child": [{
+						"title": "预约审核通知",
+						"href": "page/notice.html",
+						"icon": "fa fa-snowflake-o",
+						"target": "_self"
+					}]
+				},
+				{
+					"title": "使用记录",
+					"href": "",
+					"icon": "fa fa-snowflake-o",
+					"target": "",
+					"child": [{
+						"title": "实验室使用记录",
+						"href": "page/shiyongjilu.html",
+						"icon": "fa fa-snowflake-o",
+						"target": "_self"
+					}]
+		 	}
+			]
+		},
+		{
+			"title": "登录",
+			"href": "",
+			"icon": "fa fa-flag-o",
+			"target": "_self",
+			"child": [{
+					"title": "学生登录",
+					"href": "page/login-1.html",
+					"icon": "fa fa-stumbleupon-circle",
+					"target": "_blank"
+				},
+				{
+					"title": "教师登录",
+					"href": "page/login-2.html",
+					"icon": "fa fa-viacoin",
+					"target": "_blank"
+				},
+				{
+					"title": "注册账号",
+					"href": "page/table/zhuce.html",
+					"icon": "fa fa-viacoin",
+					"target": "_blank"
+				}
+			]
+		},
+		{
+			"title": "系统管理",
+			"href": "",
+			"icon": "fa fa-flag-o",
+			"target": "_self",
+			"child": [{
+				"title": "权限管理",
+				"href": "page/yonghu.html",
+				"icon": "fa fa-stumbleupon-circle",
+				"target": "_blank"
+			}]
+		}
+	]
+}
